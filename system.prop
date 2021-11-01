@@ -33,7 +33,8 @@ ro.vendor.qti.va_aosp.support=1
 # Havoc-OS
 ro.havoc.device.name=Redmi Note 8
 ro.havoc.group.url=https://t.me/havoc_ginkgo
-ro.havoc.maintainer=Yash Kachave (Introdructor)
+ro.havoc.maintainer=Yash Kachave
+ro.havoc.maintainer.username=Introdructor
 
 # IMS
 persist.vendor.ims.disableADBLogs=1
